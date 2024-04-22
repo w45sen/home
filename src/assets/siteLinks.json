@@ -1,51 +1,51 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Bold",
     "name": "宛安小站",
     "link": "https://w45sen.top/"
   },
   {
-    "icon": "FileTrayStacked",
+    "icon": "File",
     "name": "文件服务",
     "link": "https://w.w45sen.top/"
   },
   {
-    "icon": "MovieFilterSharp",
+    "icon": "Film",
     "name": "影视资源",
     "link": "https://x.w45sen.top/"
   },
   {
-    "icon": "PhotoCameraFilled",
+    "icon": "Camera",
     "name": "家庭相册",
     "link": "https://p.w45sen.top/"
   },
   {
-    "icon": "Notebook",
+    "icon": "Book",
     "name": "笔记服务",
     "link": "https://b.w45sen.top/"
   },
   {
-    "icon": "Notepad16Filled",
+    "icon": "Clipboard",
     "name": "随笔",
     "link": "https://m.w45sen.top/"
   },
   {
-    "icon": "Image16Filled",
+    "icon": "Images",
     "name": "宛安图床",
     "link": "https://e.w45sen.top/"
   },
   {
-    "icon": "Network4",
+    "icon": "DiceD6",
     "name": "中枢网关",
     "link": "http://192.168.31.127/"
   },
   {
-    "icon": "RouterFilled",
+    "icon": "Sitemap",
     "name": "openwrt",
     "link": "https://l.w45sen.top/"
   },
   {
-    "icon": "AirplaneTakeOff16Filled",
+    "icon": "BezierCurve",
     "name": "Lucky",
     "link": "https://y.w45sen.top/"
   }  
