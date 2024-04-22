@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, MovieFilterSharp, FileTrayStacked, PhotoCameraFilled, Notebook, Notepad16Filled, Image16Filled, Network4, RouterFilled, AirplaneTakeOff16Filled } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Bold, File, Film, Camera, Book, Clipboard, Images, DiceD6, Sitemap, BezierCurve } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
@@ -63,16 +63,16 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
-  Blog,
-  MovieFilterSharp,
-  FileTrayStacked,
-  PhotoCameraFilled,
-  Notebook,
-  Notepad16Filled,
-  Image16Filled,
-  Network4,
-  RouterFilled,
-  AirplaneTakeOff16Filled,
+  Bold,
+  File,
+  Film,
+  Camera,
+  Book,
+  Clipboard,
+  Images,
+  DiceD6,
+  Sitemap,
+  BezierCurve,
 };
 
 // 链接跳转
