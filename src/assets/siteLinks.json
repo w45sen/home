@@ -35,18 +35,13 @@
     "link": "https://e.w45sen.top/"
   },
   {
-    "icon": "DiceD6",
-    "name": "中枢网关",
-    "link": "http://192.168.31.127/"
-  },
-  {
     "icon": "Sitemap",
-    "name": "openwrt",
-    "link": "https://l.w45sen.top/"
+    "name": "备用线路",
+    "link": "http://bbb.w45sen.top/"
   },
   {
-    "icon": "BezierCurve",
-    "name": "Lucky",
-    "link": "https://y.w45sen.top/"
-  }  
+    "icon": "Camera",
+    "name": "家庭相册(快速)",
+    "link": "https://ppp.w45sen.top/"
+  }
 ]
